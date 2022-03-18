@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/website-portfolio-mzr/static/css/main.614a02f7.css",
-    "main.js": "/website-portfolio-mzr/static/js/main.6304c9a4.js",
+    "main.js": "/website-portfolio-mzr/static/js/main.64cab227.js",
     "static/media/12.png": "/website-portfolio-mzr/static/media/12.329ba3f296cf385bed35.png",
+    "static/media/CV.pdf": "/website-portfolio-mzr/static/media/CV.ebc94d94245fe89aea0b.pdf",
     "static/media/5.png": "/website-portfolio-mzr/static/media/5.ebdbdfb0c35b2f76e53f.png",
     "static/media/44.png": "/website-portfolio-mzr/static/media/44.7f4e08729281257b769b.png",
-    "static/media/CV_MoradZEROUALI_compressed.pdf": "/website-portfolio-mzr/static/media/CV_MoradZEROUALI_compressed.2eff825c34535507d3d1.pdf",
     "static/media/36.png": "/website-portfolio-mzr/static/media/36.0a99e238ca14d9eb10f9.png",
     "static/media/24.png": "/website-portfolio-mzr/static/media/24.7ae8d028716d1881f198.png",
     "static/media/1.png": "/website-portfolio-mzr/static/media/1.4665ddcdf5171c6a3ac0.png",
     "index.html": "/website-portfolio-mzr/index.html",
     "main.614a02f7.css.map": "/website-portfolio-mzr/static/css/main.614a02f7.css.map",
-    "main.6304c9a4.js.map": "/website-portfolio-mzr/static/js/main.6304c9a4.js.map"
+    "main.64cab227.js.map": "/website-portfolio-mzr/static/js/main.64cab227.js.map"
   },
   "entrypoints": [
     "static/css/main.614a02f7.css",
-    "static/js/main.6304c9a4.js"
+    "static/js/main.64cab227.js"
   ]
 }
